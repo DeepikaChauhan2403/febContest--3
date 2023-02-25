@@ -1,0 +1,24 @@
+.carousel-inner img{
+    height: 500px;
+    width: 200px;
+}
+
+.box{
+    padding: 25px;
+   
+}
+#message{
+    height: 100px;
+}
+
+.container{
+    padding-left: 70px;
+     padding-right: 70px;
+}
+
+@media screen and (max-width: 500px) {
+    .container{
+        padding-left: 10px;
+         padding-right: 10px;
+    }
+}
